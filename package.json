@@ -1,0 +1,22 @@
+{
+  "name": "github-seo-project",
+  "version": "1.0.0",
+  "description": "GitHub SEO Project with external link management",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8080",
+    "dev": "npx http-server -p 8080 -o"
+  },
+  "keywords": [
+    "github",
+    "seo",
+    "external-links",
+    "redirect"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
+
