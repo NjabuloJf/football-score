@@ -1,9 +1,3 @@
-// External link redirect function
-function redirectToExternal() {
-    // Redirect to external site
-    window.location.href = 'https://jogosdehoje.eu.com/';
-}
-
 // Track external link clicks for analytics (optional)
 function trackExternalLink(url) {
     // You can add analytics tracking here
